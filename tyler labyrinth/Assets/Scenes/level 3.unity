@@ -120,6 +120,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &163805553
 =======
 --- !u!1 &1633621
@@ -2755,6 +2756,8 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+>>>>>>> parent of cb2fdd9 (level 3 movement)
 --- !u!1 &791289837
 GameObject:
   m_ObjectHideFlags: 0
@@ -2837,6 +2840,7 @@ Transform:
   m_GameObject: {fileID: 791289837}
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.19, y: -0, z: 0}
   m_LocalScale: {x: 0.0859, y: 9.9968, z: 1}
@@ -2845,10 +2849,16 @@ Transform:
   m_LocalPosition: {x: -32.76715, y: 1.364629, z: 0}
   m_LocalScale: {x: 0.1379078, y: 16.049322, z: 1.6054459}
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.89, y: -0, z: 0}
+  m_LocalScale: {x: 0.0859, y: 9.9968, z: 1}
+>>>>>>> parent of cb2fdd9 (level 3 movement)
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1355111270}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &904452579
 =======
@@ -3405,6 +3415,8 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+>>>>>>> parent of cb2fdd9 (level 3 movement)
 --- !u!1 &1053115851
 GameObject:
   m_ObjectHideFlags: 0
@@ -3486,6 +3498,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1053115851}
   serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10.25, y: -0, z: 0}
@@ -3877,27 +3890,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1272418694}
   serializedVersion: 2
+=======
+>>>>>>> parent of cb2fdd9 (level 3 movement)
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.05607471, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 10.88, y: -0, z: 0}
+  m_LocalScale: {x: 0.0859, y: 9.9968, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1478417034}
-  - {fileID: 1408350791}
-  - {fileID: 603393004}
-  - {fileID: 1030989519}
-  - {fileID: 617997872}
-  - {fileID: 652919697}
-  - {fileID: 1642064060}
-  - {fileID: 644344593}
-  - {fileID: 1910406255}
-  - {fileID: 1633622}
-  - {fileID: 461082768}
-  - {fileID: 1817671459}
-  - {fileID: 1267156495}
-  - {fileID: 1930235556}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1059669508
 =======
@@ -4555,6 +4557,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.314}
 =======
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+>>>>>>> parent of cb2fdd9 (level 3 movement)
 --- !u!1 &1433288502
 GameObject:
   m_ObjectHideFlags: 0
@@ -4692,6 +4696,7 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1600781232
 =======
@@ -6904,11 +6909,14 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+>>>>>>> parent of cb2fdd9 (level 3 movement)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1433288505}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 791289839}
   - {fileID: 1059669510}
@@ -6937,3 +6945,7 @@ SceneRoots:
   - {fileID: 1496416944}
   - {fileID: 236909961}
 >>>>>>> e493fadec8dd622cfccd605dfe0648f5b4183aa1
+=======
+  - {fileID: 791289839}
+  - {fileID: 1053115853}
+>>>>>>> parent of cb2fdd9 (level 3 movement)
