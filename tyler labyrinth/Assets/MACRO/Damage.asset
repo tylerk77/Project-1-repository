@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Damage
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":225.0,"y":-53.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"Tag":{"$content":"PLAYER","$type":"System.String"}},"position":{"x":-24.0,"y":-204.0},"guid":"771e4ca1-ec67-474f-8691-4ed34b933e83","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"9"},{"argumentCount":0,"defaultValues":{"name":{"$content":"Death","$type":"System.String"},"target":null},"position":{"x":266.0,"y":-227.0},"guid":"dbbeb225-0090-4dcc-9f71-92b46538ff25","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"12"},{"sourceUnit":{"$ref":"9"},"sourceKey":"Target","destinationUnit":{"$ref":"12"},"destinationKey":"enter","guid":"55853592-92cb-40f3-ba13-414c5dc261a0","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"Object","destinationUnit":{"$ref":"12"},"destinationKey":"target","guid":"e8bc9a30-000f-47d4-ba2b-31b64281a472","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 4d387b6b7d662194082f0f4e834b0b09, type: 2}
