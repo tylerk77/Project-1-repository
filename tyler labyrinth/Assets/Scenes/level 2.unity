@@ -789,6 +789,33 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &423658048 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3769178189914856069, guid: 8da4caa87a7094647ac00cf4f2a3cfd3, type: 3}
+  m_PrefabInstance: {fileID: 7310183643674011821}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &423658055
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 423658048}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 22100000, guid: 12cfc8b2360c2fc4499d4f6f6607671a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &494644849
 GameObject:
   m_ObjectHideFlags: 0
@@ -3280,6 +3307,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PLAYER
       objectReference: {fileID: 0}
+    - target: {fileID: 3949947698411515564, guid: 8da4caa87a7094647ac00cf4f2a3cfd3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2092964637, guid: 4104ee12b4d54f54b91b3ba875787837, type: 3}
     - target: {fileID: 6241157577168161294, guid: 8da4caa87a7094647ac00cf4f2a3cfd3, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SpeedH","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
@@ -3334,7 +3365,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3769178189914856069, guid: 8da4caa87a7094647ac00cf4f2a3cfd3, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 423658055}
   m_SourcePrefab: {fileID: 100100000, guid: 8da4caa87a7094647ac00cf4f2a3cfd3, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
